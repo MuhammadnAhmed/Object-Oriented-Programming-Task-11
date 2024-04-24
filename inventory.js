@@ -1,3 +1,17 @@
+// # Created by Muhammad Ahmed
+
+// # Checkout my Portfolio https://a03152049334.wixsite.com/muhammadahmed
+
+// # Checkout my Fiverr account https://www.fiverr.com/ahmed189
+
+// # Checkout my Upwork account https://www.upwork.com/freelancers/~01e248930a029b5290
+
+// # Follow me on LinkedIn http://www.linkedin.com/in/muhammad-ahmed189
+
+// # Follow me on GitHub https://github.com/MuhammadnAhmed
+
+
+
 function shoes(name, productCode, quantity, valuePerItem){
     this.name = name;
     this.productCode = productCode;
