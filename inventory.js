@@ -12,6 +12,7 @@
 
 
 
+
 function shoes(name, productCode, quantity, valuePerItem){
     this.name = name;
     this.productCode = productCode;
